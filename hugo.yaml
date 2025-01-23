@@ -1,7 +1,7 @@
 baseURL: https://coffee.qwrtln.nl/
 languageCode: en-us
 title: Specialty Coffee Journey
-# theme: ["PaperMod"]
+theme: ["PaperMod"]
 
 menu:
  main:
