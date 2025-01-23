@@ -3,11 +3,16 @@ languageCode: en-us
 title: Specialty Coffee Journey
 theme: ["PaperMod"]
 
+params:
+  cover:
+    hidden: true
+    hiddenInList: false
+
 menu:
  main:
-   - identifier: posts
-     name: Posts 
-     url: /posts/
+   - identifier: coffees
+     name: Coffees 
+     url: /coffees/
      weight: 10
    - identifier: tags
      name: Tags
