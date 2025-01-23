@@ -3,7 +3,6 @@ languageCode: en-us
 title: Specialty Coffee Journey
 # theme: ["PaperMod"]
 
-
 menu:
  main:
    - identifier: posts
@@ -32,3 +31,13 @@ fuseOpts:
   minMatchCharLength: 0
   limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
   keys: ["title", "permalink", "summary", "content"]
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+mediaTypes:
+  application/rss+xml:
+    suffixes:
+      - xml
