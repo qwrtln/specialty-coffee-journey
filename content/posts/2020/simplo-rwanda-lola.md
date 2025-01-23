@@ -1,5 +1,5 @@
 ---
-date: '2020-02-23T16:48:22+01:00'
+date: '2020-02-02'
 draft: false
 title: 'Simplo Rwanda Lola'
 tags: ["Poland", "Simplo", "Rwanda"]

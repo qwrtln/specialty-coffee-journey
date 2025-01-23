@@ -1,0 +1,39 @@
+categories:
+  origin:
+    name: "Country of Origin"
+    tags:
+      - Brazil
+      - Colombia
+      - Costarica
+      - Czechia
+      - Ethiopia
+      - Guatemala
+      - Indonesia
+      - Kenya
+      - Mexico
+      - Nicaragua
+      - Peru
+      - Rwanda
+  roasting:
+    name: "Country of Roasting"
+    tags:
+      - Belarus
+      - Netherlands
+      - Poland
+      - Sweden
+  processing:
+    name: "Processing"
+    tags:
+      - Anaerobic
+      - Honey
+      - Natural
+      - Semi-Washed
+      - Washed
+  roaster:
+    name: "Roaster"
+    tags:
+      - Coffee Pro
+      - Johan & Nyström
+      - Kitchen Coffee Roasters
+      - Simplo
+      - Hayb

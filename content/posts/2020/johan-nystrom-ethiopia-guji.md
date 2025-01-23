@@ -1,5 +1,5 @@
 ---
-date: '2020-02-28T16:48:22+01:00'
+date: '2020-02-20'
 draft: false
 title: 'Johan Nystrom Ethiopia Guji'
 tags: ["Sweden", "Johan & Nyström", "Ethiopia", "Natural"]

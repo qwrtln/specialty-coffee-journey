@@ -1,0 +1,47 @@
+{{- define "main" }}
+<header class="page-header">
+    <h1>{{ .Title }}</h1>
+    {{- if .Description }}
+    <div class="post-description">
+        {{ .Description }}
+    </div>
+    {{- end }}
+</header>
+
+{{ $tagCategories := .Site.Data.tag_categories }}
+
+<div class="terms-tags">
+{{- range $categoryKey, $category := $tagCategories.categories }}
+    <div class="tag-category">
+        <h2 class="tag-header">{{ $category.name }}</h2>
+        <div class="tag-group">
+        {{- $categoryTags := slice }}
+        {{- range $category.tags }}
+            {{- $tag := . }}
+            {{- with $.Site.GetPage (printf "/tags/%s" $tag) }}
+                {{- $categoryTags = $categoryTags | append (dict "title" .Title "count" (len .Pages) "permalink" .RelPermalink) }}
+            {{- end }}
+        {{- end }}
+        {{- range sort $categoryTags "count" "desc" }}
+            <a href="{{ .permalink }}">{{ .title }} <sup><strong>{{ .count }}</strong></sup></a>
+        {{- end }}
+        </div>
+    </div>
+{{- end }}
+</div>
+
+<style>
+.tag-category {
+    margin-bottom: 2rem;
+}
+.tag-header {
+    margin: 1rem 0;
+    font-size: 1.5rem;
+}
+.tag-group {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+</style>
+{{- end }}
