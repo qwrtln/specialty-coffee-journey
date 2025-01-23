@@ -1,0 +1,34 @@
+baseURL: https://coffee.qwrtln.nl/
+languageCode: en-us
+title: Specialty Coffee Journey
+# theme: ["PaperMod"]
+
+
+menu:
+ main:
+   - identifier: posts
+     name: Posts 
+     url: /posts/
+     weight: 10
+   - identifier: tags
+     name: Tags
+     url: /tags/
+
+params:
+  tags:
+    colors:
+      Sweden: "#4B9CD3"      # blue
+      Brazil: "#009B3A"      # green
+      Natural: "#8B4513"     # brown
+
+# for search
+# https://fusejs.io/api/options.html
+fuseOpts:
+  isCaseSensitive: false
+  shouldSort: true
+  location: 0
+  distance: 1000
+  threshold: 0.4
+  minMatchCharLength: 0
+  limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+  keys: ["title", "permalink", "summary", "content"]
