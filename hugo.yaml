@@ -41,3 +41,5 @@ mediaTypes:
   application/rss+xml:
     suffixes:
       - xml
+permalinks:
+  /: /:filename/
