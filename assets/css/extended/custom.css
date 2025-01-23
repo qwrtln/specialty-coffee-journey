@@ -1,0 +1,18 @@
+.post-entry {
+   position: relative;
+   padding-right: 120px;
+}
+
+.entry-cover {
+   position: absolute;
+   top: 1rem;
+   right: 1.5rem;  /* Added padding from right */
+   width: 100px;
+}
+
+.entry-cover img {
+   width: 100%;
+   height: 80px;
+   object-fit: cover;
+   border-radius: 4px;
+}
