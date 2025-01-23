@@ -13,13 +13,6 @@ menu:
      name: Tags
      url: /tags/
 
-params:
-  tags:
-    colors:
-      Sweden: "#4B9CD3"      # blue
-      Brazil: "#009B3A"      # green
-      Natural: "#8B4513"     # brown
-
 # for search
 # https://fusejs.io/api/options.html
 fuseOpts:
@@ -31,15 +24,3 @@ fuseOpts:
   minMatchCharLength: 0
   limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
   keys: ["title", "permalink", "summary", "content"]
-
-outputs:
-  home:
-    - HTML
-    - RSS
-    - JSON
-mediaTypes:
-  application/rss+xml:
-    suffixes:
-      - xml
-permalinks:
-  /: /:filename/
