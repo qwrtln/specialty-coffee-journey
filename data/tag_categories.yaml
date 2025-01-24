@@ -7,19 +7,24 @@ categories:
       - Costarica
       - Ethiopia
       - Guatemala
+      - Honduras
       - Indonesia
       - Kenya
       - Mexico
       - Nicaragua
       - Peru
       - Rwanda
+      - Tanzania
+      - Yemen
   roasting:
     name: "Country of Roasting"
     tags:
       - Belarus
       - Czechia
+      - Germany
       - Netherlands
       - Poland
+      - Slovakia
       - Sweden
   processing:
     name: "Processing"
@@ -32,9 +37,17 @@ categories:
   roaster:
     name: "Roaster"
     tags:
+      - Audun
+      - Coffee Lab
       - Coffee Pro
-      - Johan & Nyström
-      - Kitchen Coffee Roasters
-      - Simplo
-      - Hayb
+      - Diamond's
+      - Dobra Palarnia
+      - Elephant Beans
       - Father's
+      - Hayb
+      - Johan & Nyström
+      - Karma
+      - Kitchen Coffee Roasters
+      - Qualia
+      - Rostains
+      - Simplo

@@ -4,7 +4,7 @@ draft: false
 title: 'Coffee Pro Ethiopia Kochere'
 tags: ["Poland", "Coffee Pro", "Ethiopia", "Washed"]
 cover:
-    image: /2020/04a.jpg
+    image: /2020/04a.webp
 ---
 ![Coffee Pro Ethiopia Kochere](/2020/04a.jpg)
 ![Coffee Pro Ethiopia Kochere](/2020/04b.jpg)
