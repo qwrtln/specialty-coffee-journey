@@ -4,6 +4,10 @@ title: Specialty Coffee Journey
 theme: ["PaperMod"]
 
 params:
+  homeInfoParams:
+   Title: A record of coffee brewed at home
+   Content: Everything since the beginning of 2020, sorted by roast date.
+
   cover:
     hidden: true
     hiddenInList: false
@@ -20,6 +24,12 @@ menu:
    - identifier: search
      name: Search
      url: /search/
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
 
 # for search
 # https://fusejs.io/api/options.html
