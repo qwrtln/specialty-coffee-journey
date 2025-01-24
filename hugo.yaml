@@ -10,13 +10,16 @@ params:
 
 menu:
  main:
-   - identifier: coffees
-     name: Coffees 
-     url: /coffees/
+   - identifier: coffee
+     name: Coffee
+     url: /coffee/
      weight: 10
    - identifier: tags
      name: Tags
      url: /tags/
+   - identifier: search
+     name: Search
+     url: /search/
 
 # for search
 # https://fusejs.io/api/options.html

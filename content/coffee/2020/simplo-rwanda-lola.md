@@ -6,5 +6,5 @@ tags: ["Poland", "Simplo", "Rwanda"]
 cover:
     image: /2020/02a.webp
 ---
-![Simplo](/2020/02a.jpg)
-![Simplo](/2020/02b.jpg)
+![Simplo Rwanda Lola](/2020/02a.jpg)
+![Simplo Rwanda Lola](/2020/02b.jpg)

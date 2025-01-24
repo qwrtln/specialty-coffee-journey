@@ -4,10 +4,11 @@
 }
 
 .entry-cover {
-   position: absolute;
-   top: 1rem;
-   right: 1.5rem;  /* Added padding from right */
-   width: 100px;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  right: 1.5rem;
+  width: 100px;
 }
 
 .entry-cover img {
@@ -15,4 +16,16 @@
    height: 80px;
    object-fit: cover;
    border-radius: 4px;
+}
+
+.first-entry {
+    padding-right: 120px !important;
+}
+
+.first-entry .entry-cover {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 1.5rem;
+    width: 100px;
 }

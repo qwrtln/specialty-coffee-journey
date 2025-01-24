@@ -4,7 +4,7 @@ draft: false
 title: 'Johan Nyström Brazil Fortaleza'
 tags: ["Sweden", "Johan & Nyström", "Brazil", "Natural"]
 cover:
-    image: /2020/01a.jpg
+    image: /2020/01a.webp
 ---
-![Johan & Nyström](/2020/01a.jpg)
-![Johan & Nyström](/2020/01b.jpg)
+![Johan Nyström Brazil Fortaleza](/2020/01a.jpg)
+![Johan Nyström Brazil Fortaleza](/2020/01b.jpg)

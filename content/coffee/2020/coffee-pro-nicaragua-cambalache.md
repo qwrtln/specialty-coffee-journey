@@ -6,5 +6,5 @@ tags: ["Poland", "Coffee Pro", "Nicaragua", "Natural"]
 cover:
     image: /2020/09a.webp
 ---
-![Coffee Pro](/2020/09a.jpg)
-![Coffee Pro](/2020/09b.jpg)
+![Coffee Pro Nicaragua Cambalache](/2020/09a.jpg)
+![Coffee Pro Nicaragua Cambalache](/2020/09b.jpg)

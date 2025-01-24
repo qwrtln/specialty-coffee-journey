@@ -2,4 +2,4 @@
 title: "Home"
 ---
 
-Here I document my adventures in specialty coffee.
+Here I put on record my specialty coffee journey since 2020.
