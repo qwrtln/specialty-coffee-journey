@@ -5,7 +5,8 @@ categories:
       - Bolivia
       - Brazil
       - Colombia
-      - Costarica
+      - Costa Rica
+      - Ecuador
       - El Salvador
       - Ethiopia
       - Guatemala
@@ -23,6 +24,7 @@ categories:
     tags:
       - Belarus
       - Czechia
+      - Denmark
       - Germany
       - Latvia
       - Netherlands
@@ -33,6 +35,8 @@ categories:
     name: "Processing"
     tags:
       - Anaerobic
+      - Carbonic Maceration
+      - Experimental
       - Honey
       - Natural
       - Semi-Washed
@@ -41,6 +45,7 @@ categories:
     name: "Roaster"
     tags:
       - Audun
+      - Coffee Collective
       - Coffee Lab
       - Coffee Pro
       - Diamond's
@@ -53,8 +58,13 @@ categories:
       - Kalve
       - Karma
       - Kitchen Coffee Roasters
+      - Lacava
+      - Mazelab
+      - Miga
+      - Pikola
       - Qualia
       - Rostains
+      - Sedmitchka
       - Simplo
   year:
     name: "Year"
