@@ -2,7 +2,7 @@
 date: '2022-04-21'
 draft: false
 title: 'Johan & Nyström Ethiopia Guji'
-tags: ["Sweden", "Johan & Nyström", "Ethiopia", "Natural"]
+tags: ["Sweden", "Johan & Nyström", "Ethiopia", "Natural", "2022"]
 cover:
     image: /mini/2022/16a.webp
 ---

@@ -2,7 +2,7 @@
 date: '2021-11-30'
 draft: false
 title: 'Drop Coffee Kenya Kamwangi'
-tags: ["Sweden", "Drop Coffee", "Kenya", "Washed"]
+tags: ["Sweden", "Drop Coffee", "Kenya", "Washed", "2022"]
 cover:
     image: /mini/2022/02c.webp
 ---

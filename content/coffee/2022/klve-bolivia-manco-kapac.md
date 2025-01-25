@@ -2,7 +2,7 @@
 date: '2022-09-12'
 draft: false
 title: 'Kalve Bolivia Manco Kapac'
-tags: ["Latvia", "Kalve", "Bolivia", "Anaerobic"]
+tags: ["Latvia", "Kalve", "Bolivia", "Anaerobic", "2022"]
 cover:
     image: /mini/2022/22a.webp
 ---

@@ -2,7 +2,7 @@
 date: '2022-09-16'
 draft: false
 title: 'Candycane Guatemala El Carrizal'
-tags: ["Czechia", "Candycane", "Guatemala"]
+tags: ["Czechia", "Candycane", "Guatemala", "2022"]
 cover:
     image: /mini/2022/23a.webp
 ---

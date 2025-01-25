@@ -2,7 +2,7 @@
 date: '2021-06-30'
 draft: false
 title: "Qualia Brazil Przelew"
-tags: ["Poland", "Qualia", "Brazil"]
+tags: ["Poland", "Qualia", "Brazil", "2021"]
 cover:
     image: /mini/2021/10a.webp
 ---

@@ -2,7 +2,7 @@
 date: '2022-04-18'
 draft: false
 title: 'Coffee Pro Kenya Rungeto'
-tags: ["Poland", "Coffee Pro", "Kenya", "Washed"]
+tags: ["Poland", "Coffee Pro", "Kenya", "Washed", "2022"]
 cover:
     image: /mini/2022/15a.webp
 ---

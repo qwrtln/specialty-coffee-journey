@@ -2,7 +2,7 @@
 date: '2022-04-02'
 draft: false
 title: 'Karma Rwanda Cyato'
-tags: ["Poland", "Karma", "Rwanda", "Natural"]
+tags: ["Poland", "Karma", "Rwanda", "Natural", "2022"]
 cover:
     image: /mini/2022/14a.webp
 ---

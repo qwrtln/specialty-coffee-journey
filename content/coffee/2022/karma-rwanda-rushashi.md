@@ -2,7 +2,7 @@
 date: '2022-01-08'
 draft: false
 title: 'Karma Keynya Kirinyaga'
-tags: ["Poland", "Karma", "Kenya", "Washed"]
+tags: ["Poland", "Karma", "Kenya", "Washed", "2022"]
 cover:
     image: /mini/2022/01a.webp
 ---

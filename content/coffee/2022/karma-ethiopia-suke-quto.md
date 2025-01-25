@@ -2,7 +2,7 @@
 date: '2022-01-10'
 draft: false
 title: 'Karma Ethiopia Suke Quto'
-tags: ["Poland", "Karma", "Ethiopia", "Natural"]
+tags: ["Poland", "Karma", "Ethiopia", "Natural", "2022"]
 cover:
     image: /mini/2022/09a.webp
 ---

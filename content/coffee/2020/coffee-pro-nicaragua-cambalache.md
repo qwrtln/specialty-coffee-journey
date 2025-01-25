@@ -2,7 +2,7 @@
 date: '2020-01-07'
 draft: false
 title: 'Coffee Pro Nicaragua Cambalache'
-tags: ["Poland", "Coffee Pro", "Nicaragua", "Natural"]
+tags: ["Poland", "Coffee Pro", "Nicaragua", "Natural", "2020"]
 cover:
     image: /mini/2020/09a.webp
 ---

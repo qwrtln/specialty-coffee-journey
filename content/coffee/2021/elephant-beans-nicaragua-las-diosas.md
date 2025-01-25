@@ -2,7 +2,7 @@
 date: '2021-07-26'
 draft: false
 title: "Elephant Beans Nicaragua Las Diosas"
-tags: ["Germany", "Elephant Beans", "Nicaragua", "Washed"]
+tags: ["Germany", "Elephant Beans", "Nicaragua", "Washed", "2021"]
 cover:
     image: /mini/2021/09a.webp
 ---

@@ -2,7 +2,7 @@
 date: '2021-05-25'
 draft: false
 title: 'Karma Rwanda Rushashi'
-tags: ["Poland", "Karma", "Rwanda", "Washed"]
+tags: ["Poland", "Karma", "Rwanda", "Washed", "2021"]
 cover:
     image: /mini/2021/06a.webp
 ---

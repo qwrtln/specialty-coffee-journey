@@ -2,7 +2,7 @@
 date: '2022-03-22'
 draft: false
 title: 'Drop Coffee El Salvador El Sunitza'
-tags: ["Sweden", "Drop Coffee", "El Salvador", "Semi-Washed"]
+tags: ["Sweden", "Drop Coffee", "El Salvador", "Semi-Washed", "2022"]
 cover:
     image: /mini/2022/11a.webp
 ---

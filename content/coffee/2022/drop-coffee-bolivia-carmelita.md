@@ -2,7 +2,7 @@
 date: '2022-07-26'
 draft: false
 title: 'Drop Coffee Bolivia Carmelita'
-tags: ["Sweden", "Drop Coffee", "Bolivia", "Natural"]
+tags: ["Sweden", "Drop Coffee", "Bolivia", "Natural", "2022"]
 cover:
     image: /mini/2022/18a.webp
 ---
