@@ -2,9 +2,11 @@ categories:
   origin:
     name: "Country of Origin"
     tags:
+      - Bolivia
       - Brazil
       - Colombia
       - Costarica
+      - El Salvador
       - Ethiopia
       - Guatemala
       - Honduras
@@ -22,6 +24,7 @@ categories:
       - Belarus
       - Czechia
       - Germany
+      - Latvia
       - Netherlands
       - Poland
       - Slovakia
@@ -42,12 +45,23 @@ categories:
       - Coffee Pro
       - Diamond's
       - Dobra Palarnia
+      - Drop Coffee
       - Elephant Beans
       - Father's
       - Hayb
       - Johan & Nyström
+      - Kalve
       - Karma
       - Kitchen Coffee Roasters
       - Qualia
       - Rostains
       - Simplo
+  year:
+    name: "Year"
+    tags:
+      - 2020
+      - 2021
+      - 2022
+      - 2023
+      - 2024
+      - 2025
