@@ -18,14 +18,6 @@
    border-radius: 4px;
 }
 
-.first-entry {
-    padding-right: 120px !important;
-}
-
-.first-entry .entry-cover {
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-    right: 1.5rem;
-    width: 100px;
+.post-entry.tag-entry .entry-cover {
+    display: block !important;
 }
