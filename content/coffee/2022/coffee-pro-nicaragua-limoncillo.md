@@ -4,7 +4,7 @@ draft: false
 title: 'Coffee Pro Nicaragua Limoncillo'
 tags: ["Poland", "Coffee Pro", "Nicaragua", "Natural"]
 cover:
-    image: /2022/13a.webp
+    image: /mini/2022/13a.webp
 ---
 ![Coffee Pro Nicaragua Limoncillo](/2022/13a.jpg)
 ![Coffee Pro Nicaragua Limoncillo](/2022/13b.jpg)

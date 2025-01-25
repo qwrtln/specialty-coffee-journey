@@ -4,6 +4,6 @@ draft: false
 title: 'Karma Colombia Cauca Village'
 tags: ["Poland", "Karma", "Colombia"]
 cover:
-    image: /2021/01a.webp
+    image: /mini/2021/01a.webp
 ---
 ![Karma Colombia Cauca Village](/2021/01a.jpg)

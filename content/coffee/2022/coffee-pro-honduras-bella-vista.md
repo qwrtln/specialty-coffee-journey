@@ -4,7 +4,7 @@ draft: false
 title: 'Coffee Pro Honduras Bella Vista'
 tags: ["Poland", "Coffee Pro", "Honduras"]
 cover:
-    image: /2022/06a.webp
+    image: /mini/2022/06a.webp
 ---
 ![Coffee Pro Honduras Bella Vista](/2022/06a.jpg)
 ![Coffee Pro Honduras Bella Vista](/2022/06b.jpg)

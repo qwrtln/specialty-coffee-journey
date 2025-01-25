@@ -4,7 +4,7 @@ draft: false
 title: 'Kitchen Coffee Roasters Rwanda Muteteli'
 tags: ["Belarus", "Kitchen Coffee Roasters", "Rwanda", "Washed"]
 cover:
-    image: /2020/07a.webp
+    image: /mini/2020/07a.webp
 ---
 ![Kitchen Coffee Roasters Rwanda Muteteli](/2020/07a.jpg)
 ![Kitchen Coffee Roasters Rwanda Muteteli](/2020/07b.jpg)

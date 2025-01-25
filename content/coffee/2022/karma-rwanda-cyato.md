@@ -4,6 +4,6 @@ draft: false
 title: 'Karma Rwanda Cyato'
 tags: ["Poland", "Karma", "Rwanda", "Natural"]
 cover:
-    image: /2022/14a.webp
+    image: /mini/2022/14a.webp
 ---
 ![Karma Rwanda Cyato](/2022/14a.jpg)

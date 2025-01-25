@@ -4,7 +4,7 @@ draft: false
 title: "Rostains Keyna Red Fizz"
 tags: ["Poland", "Rostains", "Kenya", "Washed"]
 cover:
-    image: /2021/08a.webp
+    image: /mini/2021/08a.webp
 ---
 ![Rostains Keyna Red Fizz](/2021/08a.jpg)
 ![Rostains Keyna Red Fizz](/2021/08b.jpg)

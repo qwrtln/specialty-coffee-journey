@@ -4,7 +4,7 @@ draft: false
 title: 'Coffee Lab Tanzania Iyenga'
 tags: ["Poland", "Coffee Lab", "Tanzania", "Washed"]
 cover:
-    image: /2021/15a.webp
+    image: /mini/2021/15a.webp
 ---
 ![Coffee Lab Tanzania Iyenga](/2021/15a.jpg)
 ![Coffee Lab Tanzania Iyenga](/2021/15b.jpg)

@@ -4,7 +4,7 @@ draft: false
 title: 'Simplo Rwanda Lola'
 tags: ["Poland", "Simplo", "Rwanda"]
 cover:
-    image: /2020/02a.webp
+    image: /mini/2020/02a.webp
 ---
 ![Simplo Rwanda Lola](/2020/02a.jpg)
 ![Simplo Rwanda Lola](/2020/02b.jpg)

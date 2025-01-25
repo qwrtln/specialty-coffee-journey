@@ -4,6 +4,6 @@ draft: false
 title: 'Audun Peru Colosay'
 tags: ["Poland", "Audun", "Peru", "Washed"]
 cover:
-    image: /2021/03a.webp
+    image: /mini/2021/03a.webp
 ---
 ![Audun Peru Colosay](/2021/03a.jpg)
