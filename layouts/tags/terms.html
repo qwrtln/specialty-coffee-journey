@@ -22,7 +22,7 @@
                 {{- $categoryTags = $categoryTags | append (dict "title" .Title "count" (len .Pages) "permalink" .RelPermalink) }}
             {{- end }}
         {{- end }}
-        {{- range sort $categoryTags "count" "desc" }}
+        {{- range sort $categoryTags (cond (eq $categoryKey "year") "title" "count") (cond (eq $categoryKey "year") "desc" "desc") }}
             <a href="{{ .permalink }}">{{ .title }} <sup><strong>{{ .count }}</strong></sup></a>
         {{- end }}
         </div>
