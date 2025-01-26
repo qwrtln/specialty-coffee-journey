@@ -21,3 +21,13 @@
 .post-entry.tag-entry .entry-cover {
     display: block !important;
 }
+
+.loading-indicator {
+  text-align: center;
+  padding: 20px;
+  color: #666;
+}
+
+.pagination {
+    display: none !important;
+}
