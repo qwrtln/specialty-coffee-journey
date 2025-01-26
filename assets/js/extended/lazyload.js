@@ -7,13 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
   let retryCount = 0;
   const MAX_RETRIES = 3;
 
-  const debug = (msg) => console.log(`[Lazy Load] ${msg}`);
-  debug('Script initialized');
-  
-  if (!postContainer) {
-    debug('Post container not found');
-    return;
-  }
+  if (!postContainer) return;
 
   loadingIndicator.className = 'loading-indicator';
   loadingIndicator.textContent = 'Loading more posts...';
@@ -34,8 +28,6 @@ document.addEventListener('DOMContentLoaded', () => {
     const currentPath = getCurrentPath();
     const nextPage = currentPage + 1;
     const nextPageUrl = `${currentPath}page/${nextPage}/`;
-    
-    debug(`Loading: ${nextPageUrl}`);
 
     try {
       const response = await fetch(nextPageUrl, {
@@ -47,7 +39,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
       if (!response.ok) {
         if (response.status === 404) {
-          debug('No more pages');
           hasMore = false;
           return;
         }
@@ -60,14 +51,13 @@ document.addEventListener('DOMContentLoaded', () => {
       const newPosts = Array.from(doc.querySelectorAll('.post-entry'));
       
       if (newPosts.length === 0) {
-        debug('No posts found');
         hasMore = false;
         return;
       }
 
-      debug(`Found ${newPosts.length} new posts`);
-      newPosts.forEach(post => {
+      newPosts.forEach((post, index) => {
         const clone = document.importNode(post, true);
+        clone.style.animationDelay = `${index * 0.1}s`;
         postContainer.appendChild(clone);
       });
 
@@ -75,9 +65,7 @@ document.addEventListener('DOMContentLoaded', () => {
       retryCount = 0;
 
     } catch (error) {
-      debug(`Error: ${error.message}`);
       if (++retryCount < MAX_RETRIES) {
-        debug(`Retry ${retryCount}/${MAX_RETRIES}`);
         setTimeout(loadPosts, 2000);
       } else {
         hasMore = false;
