@@ -14,7 +14,9 @@ categories:
       - Indonesia
       - Kenya
       - Mexico
+      - Nepal
       - Nicaragua
+      - Panama
       - Peru
       - Rwanda
       - Tanzania
@@ -42,6 +44,7 @@ categories:
       - Honey
       - Natural
       - Washed
+      - Yeast-Inoculated
   roaster:
     name: "Roaster"
     tags:
@@ -60,6 +63,7 @@ categories:
       - Kaffa
       - Kalve
       - Karma
+      - Kawepale
       - Kitchen Coffee Roasters
       - Lacava
       - Mazelab
