@@ -5,6 +5,11 @@
   animation: fadeInUp 0.5s ease forwards;
 }
 
+/* Only constrain the entry-content, not the title */
+.post-entry .entry-content {
+  max-width: calc(100% - 120px);
+}
+
 .entry-cover {
   position: absolute;
   top: 50%;
@@ -35,6 +40,11 @@
   .entry-header {
     padding-right: 90px;
     word-break: break-word;
+  }
+
+  /* Only constrain content on mobile, not the header */
+  .post-entry .entry-content {
+    max-width: calc(100% - 90px);
   }
 
   .post-entry .entry-title {
