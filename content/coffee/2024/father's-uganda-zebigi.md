@@ -2,7 +2,7 @@
 date: '2023-11-02'
 draft: false
 title: "Father's Uganda Zebigi"
-tags: ["Czechia", "Father's", "Uganda", "Washed", "2024"]
+tags: ["Czechia", "Father's", "Uganda", "Washed", "2023"]
 cover:
     image: /mini/2024/02a.webp
 ---

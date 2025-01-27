@@ -2,7 +2,7 @@
 date: '2022-12-15'
 draft: false
 title: 'Coffee Collective Bolivia Takesi'
-tags: ["Denmark", "Coffee Collective", "Bolivia", "2023"]
+tags: ["Denmark", "Coffee Collective", "Bolivia", "2022"]
 cover:
     image: /mini/2023/03a.webp
 ---

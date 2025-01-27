@@ -2,7 +2,7 @@
 date: '2023-12-21'
 draft: false
 title: 'Kaffa Colombia El Refugio'
-tags: ["Finland", "Kaffa", "Colombia", "Washed", "2024"]
+tags: ["Finland", "Kaffa", "Colombia", "Washed", "2023"]
 cover:
     image: /mini/2024/03a.webp
 ---
