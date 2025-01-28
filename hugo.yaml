@@ -5,8 +5,10 @@ theme: ["PaperMod"]
 
 params:
   homeInfoParams:
-   Title: A record of coffee brewed at home
-   Content: Everything since the beginning of 2020, sorted by roast date.
+   Title: A record of coffee journey
+   Content: Be it beans or memorable cafes, everything since the beginning of 2020, sorted by (roast) date.
+
+  mainSections: ["coffee", "cafes"]
 
   cover:
     hidden: true
@@ -18,15 +20,16 @@ menu:
      name: Coffee
      url: /coffee/
      weight: 10
+   - identifier: cafes
+     name: Cafés
+     url: /cafes/
+     weight: 11
    - identifier: tags
      name: Tags
      url: /tags/
    - identifier: search
      name: Search
      url: /search/
-   - identifier: cafes
-     name: Cafés
-     url: /cafes/
 
 outputs:
   home:
