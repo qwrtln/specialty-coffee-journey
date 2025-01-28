@@ -5,8 +5,8 @@ theme: ["PaperMod"]
 
 params:
   homeInfoParams:
-   Title: A record of coffee journey
-   Content: Be it beans or memorable cafes, everything since the beginning of 2020, sorted by (roast) date.
+   Title: A Coffee Journey Chronicle
+   Content: Cataloging coffee beans and their roasters, along with truly excceptional café discoveries, all documented since 2020.
 
   mainSections: ["coffee", "cafes"]
 
