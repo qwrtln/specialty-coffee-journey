@@ -24,6 +24,9 @@ menu:
    - identifier: search
      name: Search
      url: /search/
+   - identifier: cafes
+     name: Cafés
+     url: /cafes/
 
 outputs:
   home:
