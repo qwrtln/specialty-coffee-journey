@@ -7,7 +7,7 @@ cover:
     image: /mini/2023/03a.webp
 ---
 
-First experienced it at a café - the flavors were remarkably complex and distinctive, beyond comparison with anything else.
+First experienced it at a [café](/cafes/coffe-collective-copenhagen-denmark/) - the flavors were remarkably complex and distinctive, beyond comparison with anything else.
 The tiny 120g bag at home didn't last long enough to perfect brewing it.
 Its price and small quantity limited my experimentation.
 
