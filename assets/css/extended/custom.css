@@ -77,3 +77,31 @@
     transform: translateY(0);
   }
 }
+
+.post-content table {
+    width: auto !important;
+    margin: 2rem auto !important;
+    border-collapse: collapse;
+    border: none;
+    background: none;
+}
+
+.post-content table td {
+    padding: 0 !important;
+    border: none !important;
+    background: none !important;
+}
+
+.post-content table img {
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+.post-content table td[align="center"] {
+    text-align: center !important;
+    font-style: italic;
+    color: #666;
+    padding-top: 0.5rem !important;
+}
