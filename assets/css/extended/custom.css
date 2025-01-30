@@ -34,17 +34,13 @@
   .entry-cover {
     min-width: 60px;
     width: 80px;
-    right: 0.5rem;
+    right: 0.75rem;
   }
 
   .entry-header {
-    padding-right: 90px;
+    /* Increase padding significantly just for the header */
+    padding-right: 100px;
     word-break: break-word;
-  }
-
-  /* Only constrain content on mobile, not the header */
-  .post-entry .entry-content {
-    max-width: calc(100% - 90px);
   }
 
   .post-entry .entry-title {
