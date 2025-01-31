@@ -1,6 +1,6 @@
 ---
-title: "Search" # in any language you want
-layout: "search" # necessary for search
+title: "Search"
+layout: "search"
 summary: "search"
 placeholder: "roaster, country, flavour, etc."
 ---

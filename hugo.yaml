@@ -14,28 +14,31 @@ params:
     hidden: true
     hiddenInList: false
 
+  assets:
+    favicon: "/coffee-cup.svg"
+
 menu:
  main:
    - identifier: coffee
      name: Coffee
      url: /coffee/
-     weight: 1
+     weight: 10
    - identifier: cafes
      name: Cafés
      url: /cafes/
-     weight: 2
+     weight: 20
    - identifier: tags
      name: Tags
      url: /tags/
-     weight: 3
+     weight: 30
    - identifier: search
      name: Search
      url: /search/
-     weight: 4
-   - identifier: tierlist
-     name: Roaster Tier List
-     url: /roaster-tier-list/
-     weight: 5
+     weight: 40
+   - identifier: About
+     name: About
+     url: /about/
+     weight: 50
 
 outputs:
   home:

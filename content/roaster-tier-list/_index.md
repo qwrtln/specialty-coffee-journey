@@ -1,8 +1,11 @@
-### Remember that:
-1. I'm judging by the quality of the cup. I'm not a coffee professional, this is just my personal opinion.
-1. Lower tier doesn't necessarily mean worse roaster.
-It could mean different business strategy, like less affluent target group or more money on marketing rather than roasting.
-1. Ordering within the same tier doesn't matter.
+---
+searchHidden: true
+---
+### Note:
+1. These ratings are based on cup quality and reflect my personal opinion as a coffee enthusiast, not a professional assessment.
+2. Tier placement is not a definitive measure of a roaster's overall quality.
+   Different roasters may prioritize various business aspects, such as serving different market segments or balancing between product development and marketing investments.
+1. Rankings within the same tier have no particular order.
 
 <div class="tier-list">
   <script type="application/json">

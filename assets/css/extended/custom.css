@@ -105,3 +105,19 @@
     color: #666;
     padding-top: 0.5rem !important;
 }
+
+h3 img[src$=".svg"] {
+  height: 2.2em;
+  width: auto;
+  vertical-align: bottom;
+  margin-right: 0.2em;
+  position: relative;
+  top: 0.5em;
+  display: inline; /* Prevent line break */
+  filter: brightness(0); /* Makes it black in light mode */
+}
+
+/* Dark theme */
+.dark h3 img[src$=".svg"] {
+  filter: brightness(100) invert(1); /* Makes it white in dark mode */
+}
