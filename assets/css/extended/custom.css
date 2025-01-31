@@ -25,6 +25,10 @@
    border-radius: 4px;
 }
 
+.nav a {
+    flex-shrink: 0;  /* Prevent items from shrinking */
+}
+
 @media (max-width: 767px) {
   .post-entry {
     padding-right: 0;

@@ -19,17 +19,23 @@ menu:
    - identifier: coffee
      name: Coffee
      url: /coffee/
-     weight: 10
+     weight: 1
    - identifier: cafes
      name: Cafés
      url: /cafes/
-     weight: 11
+     weight: 2
    - identifier: tags
      name: Tags
      url: /tags/
+     weight: 3
    - identifier: search
      name: Search
      url: /search/
+     weight: 4
+   - identifier: tierlist
+     name: Roaster Tier List
+     url: /roaster-tier-list/
+     weight: 5
 
 outputs:
   home:
@@ -48,3 +54,8 @@ fuseOpts:
   minMatchCharLength: 0
   limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
   keys: ["title", "permalink", "summary", "content"]
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

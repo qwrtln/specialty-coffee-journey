@@ -1,2 +1,13 @@
-{{ $js := resources.Get "js/extended/lazyload.js" }}
-<script src="{{ $js.RelPermalink }}"></script>
+{{ with resources.Get "js/extended/lazyload.js" }}
+    {{ $lazyjs := . }}
+    {{ with resources.Get "js/extended/tierlist.js" }}
+        {{ $tierjs := . }}
+        {{ $js := slice $lazyjs . | resources.Concat "js/bundle.js" | resources.Minify }}
+        <script src="{{ $js.RelPermalink }}"></script>
+    {{ end }}
+{{ end }}
+
+{{ with resources.Get "css/extended/tierlist.css" }}
+    {{ $css := . | resources.Minify }}
+    <link rel="stylesheet" href="{{ $css.RelPermalink }}">
+{{ end }}
