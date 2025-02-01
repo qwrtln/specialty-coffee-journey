@@ -31,11 +31,16 @@
   flex: 1;
 }
 
-.tier-item {
+.tier-list .tier-item {
   padding: 0.5rem 1rem;
-  background: var(--secondary);
+  background: var(--tertiary) !important;
   border-radius: 4px;
   color: var(--primary);
+}
+
+/* We can remove the dark mode override since tags look good in both themes */
+[theme="dark"] .tier-list .tier-item {
+  border: none;  /* Remove the border since tags don't have it */
 }
 
 /* Tier colors - following rainbow progression */
@@ -46,9 +51,3 @@
 .tier-b .tier-label { background-color: #7FAFFF; }  /* Blue */
 .tier-a .tier-label { background-color: #B57FFF; }  /* Purple */
 .tier-s .tier-label { background-color: #FF7FE5; }  /* Pink */
-
-/* Dark mode support */
-[theme="dark"] .tier-item {
-  background: var(--entry);
-  border: 1px solid var(--border);
-}

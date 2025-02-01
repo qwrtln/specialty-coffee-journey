@@ -121,3 +121,12 @@ h3 img[src$=".svg"] {
 .dark h3 img[src$=".svg"] {
   filter: brightness(100) invert(1); /* Makes it white in dark mode */
 }
+
+#top-link {
+    background: var(--border);
+}
+
+#top-link:hover {
+    background: var(--code-bg);  /* Slightly different but still theme-appropriate */
+    opacity: 0.9;  /* Subtle fade effect */
+}
