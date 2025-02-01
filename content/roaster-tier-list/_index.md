@@ -1,5 +1,8 @@
 ---
 searchHidden: true
+_build:
+  render: always
+  list: false
 ---
 ### Note:
 1. These ratings are based on cup quality and reflect my personal opinion as a coffee enthusiast, not a professional assessment.
