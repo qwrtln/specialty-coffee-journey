@@ -50,11 +50,13 @@ jobs:
         uses: actions/configure-pages@v5
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+      - name: Download simpleanalytics
+        run: wget https://scripts.simpleanalyticscdn.com/latest.js -O assets/js/extended/simpleanalytics.js
       - name: Build with Hugo
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
-          TZ: America/Los_Angeles
+          TZ: Europe/Warsaw
         run: |
           hugo \
             --gc \
