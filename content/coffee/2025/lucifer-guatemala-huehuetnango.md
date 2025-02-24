@@ -8,6 +8,6 @@ cover:
 ---
 
 Lesson learned about "omniroast": too dark for filter, too light for espresso.
-You should probably choose coffee tailor to your specific expectations.
+You should probably choose coffee tailored to your specific expectations.
 
 ![Lucifer Guatemala Huehuetnango](/2025/03.jpg)

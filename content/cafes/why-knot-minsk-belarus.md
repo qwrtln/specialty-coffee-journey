@@ -6,7 +6,7 @@ cover:
     image: /mini/cafes/why-knot.jpg
 ---
 
- was promised to be led to the best coffee spot in the city, so my expectations were high.
+I was promised to be led to the best coffee spot in the city, so my expectations were high.
 Why Knot delivered.
 The coffee selection was clearly displayed on the wall menu.
 This was a rather peculiar choice, as normally you have to ask the barista about their current stock.
