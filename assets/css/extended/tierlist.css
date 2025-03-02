@@ -36,9 +36,15 @@
   background: var(--tertiary) !important;
   border-radius: 4px;
   color: var(--primary);
+  text-decoration: none;
+  display: inline-block;
 }
 
-/* We can remove the dark mode override since tags look good in both themes */
+.tier-list .tier-item:hover {
+  text-decoration: underline;
+  opacity: 0.9;
+}
+
 [theme="dark"] .tier-list .tier-item {
   border: none;  /* Remove the border since tags don't have it */
 }

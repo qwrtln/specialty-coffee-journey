@@ -2,13 +2,11 @@ document.addEventListener('DOMContentLoaded', () => {
   const tierLists = document.querySelectorAll('.tier-list');
   
   tierLists.forEach(tierList => {
-    // Parse the data structure from the hidden input
     const dataElement = tierList.querySelector('script[type="application/json"]');
     if (!dataElement) return;
     
     const tiers = JSON.parse(dataElement.textContent);
     
-    // Create the tier list structure
     tiers.forEach(tier => {
       const tierRow = document.createElement('div');
       tierRow.className = `tier-row tier-${tier.rank.toLowerCase()}`;
@@ -21,9 +19,17 @@ document.addEventListener('DOMContentLoaded', () => {
       items.className = 'tier-items';
       
       tier.items.forEach(item => {
-        const itemElement = document.createElement('div');
+        const itemElement = document.createElement('a');
         itemElement.className = 'tier-item';
         itemElement.textContent = item;
+        
+        const tagUrl = item.toLowerCase()
+                           .replace(/\s+/g, '-')        // Replace spaces with hyphens
+                           .replace(/&/g, '')           // Remove apersands
+                           .replace(/'/g, '')           // Remove apostrophes
+        
+        itemElement.href = `/tags/${encodeURIComponent(tagUrl)}/`;
+        
         items.appendChild(itemElement);
       });
       
