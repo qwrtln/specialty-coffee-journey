@@ -6,5 +6,5 @@ tags: ["Poland", "Lacava", "Ethiopia", "Washed", "2023"]
 cover:
     image: /mini/2023/12a.webp
 ---
-![Lacava Ethopia Limy Bru](/2023/12a.jpg)
-![Lacava Ethopia Limy Bru](/2023/12b.jpg)
+![Lacava Ethiopia Limy Bru](/2023/12a.jpg)
+![Lacava Ethiopia Limy Bru](/2023/12b.jpg)
