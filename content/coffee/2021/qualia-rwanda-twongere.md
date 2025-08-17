@@ -8,7 +8,7 @@ cover:
 ---
 
 A robusta gift from a fellow coffee nerd.
-Even though I personally dislike robusta profile, to my surprise it was cherished as exceptional by my guests, who normally do not drink filter coffee.
+Even though I personally dislike the robusta profile, to my surprise it was cherished as exceptional by my guests, who normally do not drink filter coffee.
 
 ![Qualia Rwanda Twongere](/2021/12a.jpg)
 ![Qualia Rwanda Twongere](/2021/12b.jpg)
