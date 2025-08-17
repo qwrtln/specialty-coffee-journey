@@ -7,10 +7,8 @@ cover:
     image: /mini/2024/11a.webp
 ---
 
-I had the pleasure of meeting the roaster while buying this bag.
-Always a pleasure to meet a fellow coffee enthusiast.
 I had the pleasure of meeting the roaster when I bought this bag.
-It’s always great to meet a fellow coffee enthusiast.
+It's always great to meet a fellow coffee enthusiast.
 Although I was intrigued by the story of Nepalese monks processing the coffee using goat milk, the taste was rather unoriginal.
 Never trust those self-awarded SCA points on the bag.
 

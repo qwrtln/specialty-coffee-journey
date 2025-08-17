@@ -11,7 +11,7 @@ True to German precision and order, bookings must be made at least a day in adva
 Each seating is precisely scheduled for 90 minutes.
 Despite the café being relatively empty during our visit, a host diligently checked our reservation at the entrance.
 
-|![Marhsall interior](/cafes/marshall-1.jpg)|
+|![Marshall interior](/cafes/marshall-1.jpg)|
 |:---:|
 |*A playfully sophisticated interior.*|
 
