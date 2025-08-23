@@ -1,4 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
+  const postContainer = document.querySelector('.post-container');
   const loadingIndicator = document.createElement('div');
   let currentPage = 1;
   let loading = false;
