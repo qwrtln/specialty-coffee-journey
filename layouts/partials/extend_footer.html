@@ -1,13 +1,21 @@
 {{ with resources.Get "js/extended/lazyload.js" }}
-    {{ $lazyjs := . }}
-    {{ with resources.Get "js/extended/tierlist.js" }}
-        {{ $tierjs := . }}
-        {{ with resources.Get "js/extended/simpleanalytics.js" }}
-            {{ $analytics := . }}
-            {{ $js := slice $lazyjs $tierjs $analytics | resources.Concat "js/bundle.js" | resources.Minify }}
-            <script src="{{ $js.RelPermalink }}"></script>
-        {{ end }}
-    {{ end }}
+    {{ $lazyjs := . | resources.Minify }}
+    <script src="{{ $lazyjs.RelPermalink }}"></script>
+{{ end }}
+
+{{ with resources.Get "js/extended/tierlist.js" }}
+    {{ $tierjs := . | resources.Minify }}
+    <script src="{{ $tierjs.RelPermalink }}"></script>
+{{ end }}
+
+{{ with resources.Get "js/extended/image-rotate.js" }}
+    {{ $imagerotate := . | resources.Minify }}
+    <script src="{{ $imagerotate.RelPermalink }}"></script>
+{{ end }}
+
+{{ with resources.Get "js/extended/simpleanalytics.js" }}
+    {{ $analytics := . | resources.Minify }}
+    <script src="{{ $analytics.RelPermalink }}"></script>
 {{ end }}
 
 {{ with resources.Get "css/extended/tierlist.css" }}
