@@ -15,7 +15,7 @@ params:
     hiddenInList: false
 
   assets:
-    favicon: "/coffee-cup.svg"
+    favicon: "/icons/coffee-cup.svg"
 
 menu:
  main:

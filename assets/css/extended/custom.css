@@ -123,10 +123,5 @@ h3 img[src$=".svg"] {
 }
 
 #top-link {
-    background: var(--border);
-}
-
-#top-link:hover {
-    background: var(--code-bg);  /* Slightly different but still theme-appropriate */
-    opacity: 0.9;  /* Subtle fade effect */
+    display: none !important;
 }
