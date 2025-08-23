@@ -1,14 +1,16 @@
 document.addEventListener('DOMContentLoaded', () => {
-  const postContainer = document.querySelector('.post-container');
-  const loadingIndicator = document.createElement('div');
+  const postEntry = document.querySelector('.post-entry');
+  if (!postEntry) return;
+  const postContainer = postEntry.parentElement;
+  if (!postContainer) return;
+
   let currentPage = 1;
   let loading = false;
   let hasMore = true;
   let retryCount = 0;
   const MAX_RETRIES = 3;
 
-  if (!postContainer) return;
-
+  const loadingIndicator = document.createElement('div');
   loadingIndicator.className = 'loading-indicator';
   loadingIndicator.textContent = 'Loading more posts...';
   loadingIndicator.style.display = 'none';
