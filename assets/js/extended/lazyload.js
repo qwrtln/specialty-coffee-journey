@@ -1,5 +1,4 @@
 document.addEventListener('DOMContentLoaded', () => {
-  const postContainer = document.querySelector('.post-entry').parentElement;
   const loadingIndicator = document.createElement('div');
   let currentPage = 1;
   let loading = false;
@@ -21,10 +20,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
   async function loadPosts() {
     if (loading || !hasMore) return;
-    
+
     loading = true;
     loadingIndicator.style.display = 'block';
-    
+
     const currentPath = getCurrentPath();
     const nextPage = currentPage + 1;
     const nextPageUrl = `${currentPath}page/${nextPage}/`;
@@ -49,7 +48,7 @@ document.addEventListener('DOMContentLoaded', () => {
       const parser = new DOMParser();
       const doc = parser.parseFromString(text, 'text/html');
       const newPosts = Array.from(doc.querySelectorAll('.post-entry'));
-      
+
       if (newPosts.length === 0) {
         hasMore = false;
         return;
