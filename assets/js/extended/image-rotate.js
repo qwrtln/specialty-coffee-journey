@@ -1,11 +1,10 @@
 document.addEventListener('DOMContentLoaded', () => {
-  // Only add rotate buttons to coffee posts
-  if (!window.location.pathname.startsWith('/coffee/')) {
-    return;
-  }
-
   document.querySelectorAll('.post-content img').forEach((img, index) => {
+    console.log("Loading image rotation script")
     const processImage = () => {
+      if (!window.location.pathname.startsWith('/coffee/')) {
+        return;
+      }
       // Store original dimensions
       const originalWidth = img.offsetWidth || img.naturalWidth;
       const originalHeight = img.offsetHeight || img.naturalHeight;
