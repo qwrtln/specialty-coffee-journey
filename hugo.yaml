@@ -17,6 +17,8 @@ params:
   assets:
     favicon: "/icons/coffee-cup.svg"
 
+  ShowPostNavLinks: true
+
 menu:
  main:
    - identifier: coffee
