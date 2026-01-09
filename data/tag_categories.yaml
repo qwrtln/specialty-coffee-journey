@@ -47,6 +47,7 @@ categories:
       - Natural
       - Washed
       - Yeast-Inoculated
+      - Thermal Shock
   roaster:
     name: "Roaster"
     tags:
