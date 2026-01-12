@@ -113,15 +113,44 @@ h3 img[src$=".svg"] {
   margin-right: 0.2em;
   position: relative;
   top: 0.7em;
-  display: inline; /* Prevent line break */
-  filter: brightness(0); /* Makes it black in light mode */
+  display: inline;
 }
 
-/* Dark theme */
-.dark h3 img[src$=".svg"] {
-  filter: brightness(100) invert(1); /* Makes it white in dark mode */
+/* Light mode - make SVG black */
+h3 img[src$=".svg"] {
+  filter: brightness(0) saturate(100%);
+}
+
+/* Dark mode - make SVG white */
+[data-theme="dark"] h3 img[src$=".svg"],
+body[data-theme="dark"] h3 img[src$=".svg"],
+html[data-theme="dark"] h3 img[src$=".svg"] {
+  filter: brightness(0) invert(1);
 }
 
 #top-link {
     display: none !important;
+}
+
+/* Style for internal links - small caps without underline */
+.post-content a[href^="/"] {
+  box-shadow: none;
+  font-variant: small-caps;
+  font-weight: 500;
+  letter-spacing: 0.03em;
+  padding: 2px 4px;
+  border-radius: 3px;
+  transition: background-color 0.3s ease;
+}
+
+.post-content a[href^="/"]:hover {
+  background-color: rgba(217, 119, 6, 0.11); /* Subtle orange tint */
+  box-shadow: none;
+}
+
+/* Exclude tier list items from small caps styling */
+.tier-list .tier-item {
+  font-variant: normal !important;
+  letter-spacing: normal !important;
+  padding: 0.5rem 1rem !important;
 }
