@@ -27,7 +27,7 @@ _build:
     },
     {
       "rank": "C",
-      "items": ["Qualia", "Coffee and Sons"]
+      "items": ["Qualia", "Coffee & Sons"]
     },
     {
       "rank": "D",
