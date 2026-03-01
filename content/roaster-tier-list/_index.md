@@ -1,6 +1,6 @@
 ---
 searchHidden: true
-_build:
+build:
   render: always
   list: false
 ---

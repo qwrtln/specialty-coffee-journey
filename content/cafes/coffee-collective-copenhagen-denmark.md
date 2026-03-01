@@ -14,7 +14,7 @@ Just outside the city center, this café occupies what feels like a spacious apa
 
 Even on weekdays, finding a seat is a challenge.
 Rather than a typical café, the atmosphere mirrors a house party where mingling with other guests is part of the experience.
-In fact, securing a spot requires social interaction - we found ourselves asking a couple at a four-seat table if we could join them, which they warmly welcomed.
+In fact, securing a spot requires social interaction - we found ourselves asking a couple at a four-seat table if we could join them, which they welcomed.
 
 |![Coffee Collective bar](/cafes/coffee-collective-1.jpg)|
 |:---:|

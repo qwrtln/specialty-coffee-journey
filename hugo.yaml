@@ -4,6 +4,8 @@ title: Specialty Coffee Journey
 theme: ["PaperMod"]
 
 params:
+  author: " "
+  authorHidden: true
   homeInfoParams:
    Title: A Coffee Journey Chronicle
    Content: Cataloging coffee beans and their roasters, along with truly excceptional café discoveries, all documented since 2020.
