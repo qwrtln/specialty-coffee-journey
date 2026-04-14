@@ -52,7 +52,7 @@ Food is prepared upstairs in a space not available to guests.
 |:---:|
 |*Raw coffee bean sacks - the working materials of an active roastery, not just decoration.*|
 
-We particularly enjoyed a Colombian anaerobic coffee so much so that we took a bag home.
+We particularly enjoyed a Colombian anaerobic coffee so much so that we [took a bag home](/coffee/2025/la-escala-colombia-finca-betania).
 What struck us most during our visits was the staff's authentic happiness - you could tell they genuinely enjoyed being part of the team.
 In an industry where this is uncomfortably rare, finding a place with that energy feels heartwarming.
 

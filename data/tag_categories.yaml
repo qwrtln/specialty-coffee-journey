@@ -36,6 +36,7 @@ categories:
       - Netherlands
       - Poland
       - Slovakia
+      - Spain
       - Sweden
   processing:
     name: "Processing"
@@ -75,6 +76,7 @@ categories:
       - Kawepale
       - Kitchen Coffee Roasters
       - La Cabra
+      - La Escala
       - Lacava
       - Love Coffee
       - Lucifer
@@ -91,9 +93,11 @@ categories:
       - Simplo
       - Spojka
       - Taste Map
+      - The Naughty Dog
   year:
     name: "Year"
     tags:
+      - "2026"
       - "2025"
       - "2024"
       - "2023"
