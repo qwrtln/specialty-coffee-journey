@@ -8,7 +8,7 @@
     {{- end }}
 </header>
 
-{{ $tagCategories := .Site.Data.tag_categories }}
+{{ $tagCategories := hugo.Data.tag_categories }}
 
 <div class="terms-tags">
 {{- range $categoryKey, $category := $tagCategories.categories }}

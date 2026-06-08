@@ -2,7 +2,7 @@
 date: '2025-02-25'
 draft: false
 title: 'Meron Brazil Guariroba Gesha'
-tags: ["Hungary", "Meron", "Brazil", "Anaerobic", "2025"]
+tags: ["Hungary", "Meron", "Brazil", "Anaerobic", "2025", "Geisha"]
 cover:
     image: /mini/2025/08a.webp
 ---
