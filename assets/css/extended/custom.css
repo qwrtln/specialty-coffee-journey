@@ -86,6 +86,7 @@
     background: none;
 }
 
+.post-content table th,
 .post-content table td {
     padding: 0 !important;
     border: none !important;
@@ -99,7 +100,8 @@
     display: block;
 }
 
-.post-content table td[align="center"] {
+.post-content table td[align="center"],
+.post-content table td[style*="center"] {
     text-align: center !important;
     font-style: italic;
     color: #666;

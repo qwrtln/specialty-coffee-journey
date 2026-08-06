@@ -1,0 +1,41 @@
+<script>
+  (function () {
+    var config = {
+      "data-repo": "qwrtln/specialty-coffee-journey",
+      "data-repo-id": "R_kgDONumCuQ",
+      "data-category": "Comments",
+      "data-category-id": "DIC_kwDONumCuc4DC05E",
+      "data-mapping": "pathname",
+      "data-strict": "0",
+      "data-reactions-enabled": "1",
+      "data-emit-metadata": "0",
+      "data-input-position": "bottom",
+      "data-lang": "en",
+    };
+
+    function giscusTheme() {
+      return document.documentElement.dataset.theme === "dark" ? "transparent_dark" : "light";
+    }
+
+    var script = document.createElement("script");
+    script.src = "https://giscus.app/client.js";
+    script.crossOrigin = "anonymous";
+    script.async = true;
+    Object.keys(config).forEach(function (key) {
+      script.setAttribute(key, config[key]);
+    });
+    script.setAttribute("data-theme", giscusTheme());
+    document.currentScript.parentNode.insertBefore(script, document.currentScript);
+
+    // PaperMod's theme toggle flips html[data-theme]; mirror it into the giscus iframe.
+    new MutationObserver(function () {
+      var frame = document.querySelector("iframe.giscus-frame");
+      if (frame) {
+        frame.contentWindow.postMessage(
+          { giscus: { setConfig: { theme: giscusTheme() } } },
+          "https://giscus.app"
+        );
+      }
+    }).observe(document.documentElement, { attributes: true, attributeFilter: ["data-theme"] });
+  })();
+</script>

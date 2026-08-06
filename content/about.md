@@ -1,5 +1,6 @@
 ---
 searchHidden: true
+comments: false
 build:
   render: always
   list: false

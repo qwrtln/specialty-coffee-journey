@@ -20,6 +20,8 @@ params:
 
   ShowPostNavLinks: true
 
+  comments: true
+
 menu:
  main:
    - identifier: coffee
