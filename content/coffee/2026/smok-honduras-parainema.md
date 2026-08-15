@@ -12,7 +12,7 @@ I decided to give them a go, even though this coffee is roasted on the darker en
 The bag design seems to combine three things: op art, pixel art (scans don't do them justice, as they are primarily on the sides and at the bottom of the bag), and swing tags. The latter are an interesting idea, admittedly aesthetically pleasing, but not really functional - they make opening the bag needlessly difficult.
 
 I could clearly taste the grapefruit and blackcurrant promised on the swing tag.
-The dark roast muted the fruitiness, but it still made for an especially delicious aeropress on ice, which I would always drink in 2-3 greedy sips.
+The dark roast muted the fruitiness, but it still made for an especially delicious Aeropress on ice, which I would always drink in 2-3 greedy sips.
 
 The "smokarty" concept (Polish for dragon + cards, dracards?) left me with mixed feelings.
 Every bag comes with 2 cards attached (in this case 8 of spades and 8 of clubs), which, according to the roaster's website, you can exchange for rewards.

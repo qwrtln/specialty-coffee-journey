@@ -14,7 +14,7 @@ My first encounter with them was during a short trip, when I walked into a promi
 A coffee shop serving brews from Delter is such a rare occurrence, and having it taste so incredibly clean naturally led me to order a bag.
 Their prices are on the higher end, but the quality is impeccable.
 They promise a lot and actually deliver.
-This one worked well in both the AeroPress and Delter as a daily brew.
+This one worked well in both the Aeropress and Delter as a daily brew.
 
 ![La Cabra Rwanda Shyira](/2025/12a.webp)
 ![La Cabra Rwanda Shyira](/2025/12b.webp)

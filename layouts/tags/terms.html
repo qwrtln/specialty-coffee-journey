@@ -11,7 +11,7 @@
 {{ $tagCategories := hugo.Data.tag_categories }}
 
 <div class="terms-tags">
-{{- range $categoryKey, $category := $tagCategories.categories }}
+{{- range $category := sort $tagCategories.categories "order" }}
     <div class="tag-category">
         <h2 class="tag-header">{{ $category.name }}</h2>
         <div class="tag-group">
@@ -22,7 +22,7 @@
                 {{- $categoryTags = $categoryTags | append (dict "title" .Title "count" (len .Pages) "permalink" .RelPermalink) }}
             {{- end }}
         {{- end }}
-        {{- range sort $categoryTags (cond (eq $categoryKey "year") "title" "count") (cond (eq $categoryKey "year") "desc" "desc") }}
+        {{- range sort $categoryTags (default "count" $category.sort) "desc" }}
             <a href="{{ .permalink }}">{{ .title }} <sup><strong>{{ .count }}</strong></sup></a>
         {{- end }}
         </div>
