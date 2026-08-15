@@ -2,7 +2,7 @@
 date: '2023-10-18'
 draft: false
 title: 'Just Brew Indonesia Vampirella'
-tags: ["Poland", "Just Brew", "Indonesia", "Anaerobic", "2023"]
+tags: ["Poland", "Just Brew", "Indonesia", "Anaerobic", "2023", "Ateng Super", "Timor", "P88"]
 cover:
     image: /mini/2024/06.webp
 ---

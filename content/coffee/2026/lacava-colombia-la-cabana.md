@@ -1,7 +1,7 @@
 ---
 date: '2026-01-21'
 title: 'Lacava Colombia La Cabaña'
-tags: ["Poland", "Lacava", "Colombia", "Washed", "2026"]
+tags: ["Poland", "Lacava", "Colombia", "Washed", "2026", "Chiroso"]
 cover:
     image: /mini/2026/02a.webp
 ---

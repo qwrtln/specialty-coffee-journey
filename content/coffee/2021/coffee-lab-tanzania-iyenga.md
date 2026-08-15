@@ -2,7 +2,7 @@
 date: '2021-10-30'
 draft: false
 title: 'Coffee Lab Tanzania Iyenga'
-tags: ["Poland", "Coffee Lab", "Tanzania", "Washed", "2021"]
+tags: ["Poland", "Coffee Lab", "Tanzania", "Washed", "2021", "Kent", "Bourbon"]
 cover:
     image: /mini/2021/15a.webp
 ---

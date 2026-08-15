@@ -1,7 +1,7 @@
 ---
 date: '2026-05-05'
 title: 'Smok Honduras Parainema'
-tags: ["Poland", "Smok", "Honduras", "Washed", "2026"]
+tags: ["Poland", "Smok", "Honduras", "Washed", "2026", "Parainema"]
 cover:
     image: /mini/2026/07a.webp
 ---

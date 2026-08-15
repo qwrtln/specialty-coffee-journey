@@ -2,7 +2,7 @@
 date: '2020-01-15'
 draft: false
 title: 'Johan & Nyström Brazil Fortaleza'
-tags: ["Sweden", "Johan & Nyström", "Brazil", "Natural", "2020"]
+tags: ["Sweden", "Johan & Nyström", "Brazil", "Natural", "2020", "Bourbon", "Mundo Novo", "Catuai"]
 cover:
     image: /mini/2020/01a.webp
 ---

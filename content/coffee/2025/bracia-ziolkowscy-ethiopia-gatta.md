@@ -2,7 +2,7 @@
 date: '2024-10-22'
 draft: false
 title: 'Bracia Ziółkowscy Ethiopia Gatta'
-tags: ["Poland", "Bracia Ziółkowscy", "Ethiopia", "Natural", "2024"]
+tags: ["Poland", "Bracia Ziółkowscy", "Ethiopia", "Natural", "2024", "74158"]
 cover:
     image: /mini/2025/05a.webp
 ---

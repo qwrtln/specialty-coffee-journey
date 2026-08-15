@@ -2,7 +2,7 @@
 date: '2023-10-12'
 draft: false
 title: 'Playground Guatemala Serpentine'
-tags: ["Germany", "Playground", "Guatemala", "Natural", "2023"]
+tags: ["Germany", "Playground", "Guatemala", "Natural", "2023", "Catuai"]
 cover:
     image: /mini/2024/01a.webp
 ---

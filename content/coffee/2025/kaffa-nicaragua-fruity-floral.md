@@ -2,7 +2,7 @@
 date: '2024-10-09'
 draft: false
 title: 'Kaffa Nicaragua Fruity & Floral'
-tags: ["Finland", "Kaffa", "Nicaragua", "Honey", "2024"]
+tags: ["Finland", "Kaffa", "Nicaragua", "Honey", "2024", "Caturra", "Red Catuai"]
 cover:
     image: /mini/2025/02a.webp
 ---

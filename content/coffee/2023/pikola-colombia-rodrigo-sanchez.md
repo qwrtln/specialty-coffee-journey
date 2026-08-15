@@ -2,7 +2,7 @@
 date: '2023-06-21'
 draft: false
 title: 'Pikola Colombia Rodrigo Sanchez'
-tags: ["Czechia", "Pikola", "Colombia", "Experimental", "2023"]
+tags: ["Czechia", "Pikola", "Colombia", "Experimental", "2023", "Caturra", "Pink Bourbon"]
 cover:
     image: /mini/2023/17a.webp
 ---

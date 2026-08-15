@@ -2,7 +2,7 @@
 date: '2025-12-08'
 draft: false
 title: 'DAK Ethiopia Danche'
-tags: ["Netherlands", "DAK", "Ethiopia", "Washed", "2025"]
+tags: ["Netherlands", "DAK", "Ethiopia", "Washed", "2025", "Heirloom"]
 cover:
     image: /mini/2025/22a.webp
 ---

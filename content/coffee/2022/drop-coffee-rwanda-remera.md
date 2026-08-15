@@ -2,7 +2,7 @@
 date: '2022-07-25'
 draft: false
 title: 'Drop Coffee Rwanda Remera'
-tags: ["Sweden", "Drop Coffee", "Rwanda", "Natural", "2022"]
+tags: ["Sweden", "Drop Coffee", "Rwanda", "Natural", "2022", "Red Bourbon"]
 cover:
     image: /mini/2022/19a.webp
 ---

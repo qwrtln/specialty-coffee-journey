@@ -1,7 +1,7 @@
 ---
 date: '2026-06-23'
 title: 'Smok Tanzania Mondul Estate'
-tags: ["Poland", "Smok", "Tanzania", "Washed", "2026"]
+tags: ["Poland", "Smok", "Tanzania", "Washed", "2026", "Bourbon"]
 cover:
     image: /mini/2026/08a.webp
 ---

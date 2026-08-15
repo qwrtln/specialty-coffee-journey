@@ -2,7 +2,7 @@
 date: '2025-07-14'
 draft: false
 title: 'Taste Map Colombia La Esmeralda'
-tags: ["Lithuania", "Taste Map", "Colombia", "Anaerobic", "2025"]
+tags: ["Lithuania", "Taste Map", "Colombia", "Anaerobic", "2025", "Caturron"]
 cover:
     image: /mini/2025/17a.webp
 ---

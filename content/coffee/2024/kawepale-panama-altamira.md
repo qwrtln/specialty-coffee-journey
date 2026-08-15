@@ -2,7 +2,7 @@
 date: '2024-03-10'
 draft: false
 title: 'Kawepale Panama Altamira'
-tags: ["Poland", "Kawepale", "Panama", "Natural", "2024"]
+tags: ["Poland", "Kawepale", "Panama", "Natural", "2024", "Caturra"]
 cover:
     image: /mini/2024/10a.webp
 ---

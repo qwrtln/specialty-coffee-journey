@@ -2,7 +2,7 @@
 date: '2025-06-16'
 draft: false
 title: 'Kitchen Coffee Roasters Kenya Kirinyaga'
-tags: ["Belarus", "Kitchen Coffee Roasters", "Kenya", "Washed", "2025"]
+tags: ["Belarus", "Kitchen Coffee Roasters", "Kenya", "Washed", "2025", "SL28", "SL34"]
 cover:
     image: /mini/2025/13a.webp
 ---

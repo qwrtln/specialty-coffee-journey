@@ -2,7 +2,7 @@
 date: '2020-11-09'
 draft: false
 title: 'Coffee Pro Mexico Union San Pedro'
-tags: ["Poland", "Coffee Pro", "Mexico", "Washed", "2020"]
+tags: ["Poland", "Coffee Pro", "Mexico", "Washed", "2020", "Pluma Hidalgo", "Mundo Novo"]
 cover:
     image: /mini/2020/10a.webp
 ---

@@ -2,7 +2,7 @@
 date: '2022-08-03'
 draft: false
 title: 'Johan & Nyström Ethiopia Welena'
-tags: ["Sweden", "Johan & Nyström", "Ethiopia", "Washed", "2022"]
+tags: ["Sweden", "Johan & Nyström", "Ethiopia", "Washed", "2022", "Welicho", "Kurume"]
 cover:
     image: /mini/2022/20a.webp
 ---

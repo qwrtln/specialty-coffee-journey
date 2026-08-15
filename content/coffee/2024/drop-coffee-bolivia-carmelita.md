@@ -2,7 +2,7 @@
 date: '2024-01-04'
 draft: false
 title: 'Drop Coffee Bolivia Carmelita'
-tags: ["Sweden", "Drop Coffee", "Bolivia", "Honey", "2024"]
+tags: ["Sweden", "Drop Coffee", "Bolivia", "Honey", "2024", "Caturra"]
 cover:
     image: /mini/2024/04a.webp
 ---

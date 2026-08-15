@@ -2,7 +2,7 @@
 date: '2024-02-07'
 draft: false
 title: 'Lacava El Salvador Josue Recinos'
-tags: ["Poland", "Lacava", "El Salvador", "Honey", "2024"]
+tags: ["Poland", "Lacava", "El Salvador", "Honey", "2024", "Bourbon", "Pacas"]
 cover:
     image: /mini/2024/08a.webp
 ---

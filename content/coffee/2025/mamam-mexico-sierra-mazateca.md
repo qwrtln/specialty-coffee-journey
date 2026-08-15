@@ -2,7 +2,7 @@
 date: '2025-01-21'
 draft: false
 title: 'Mamam Mexico Sierra Mazateca'
-tags: ["Poland", "Mamam", "Mexico", "Washed", "2025"]
+tags: ["Poland", "Mamam", "Mexico", "Washed", "2025", "Typica", "Mundo Novo", "Bourbon"]
 cover:
     image: /mini/2025/06b.webp
 ---

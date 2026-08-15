@@ -2,7 +2,7 @@
 date: '2023-05-08'
 draft: false
 title: "Lacava Ethiopia Limy Bru"
-tags: ["Poland", "Lacava", "Ethiopia", "Washed", "2023"]
+tags: ["Poland", "Lacava", "Ethiopia", "Washed", "2023", "Heirloom"]
 cover:
     image: /mini/2023/12a.webp
 ---

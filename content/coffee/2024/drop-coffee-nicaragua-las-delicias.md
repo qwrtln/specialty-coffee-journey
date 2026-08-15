@@ -2,7 +2,7 @@
 date: '2024-05-08'
 draft: false
 title: 'Drop Coffee Nicaragua Las Delicias'
-tags: ["Sweden", "Drop Coffee", "Nicaragua", "Washed", "2024"]
+tags: ["Sweden", "Drop Coffee", "Nicaragua", "Washed", "2024", "Java"]
 cover:
     image: /mini/2024/13a.webp
 ---

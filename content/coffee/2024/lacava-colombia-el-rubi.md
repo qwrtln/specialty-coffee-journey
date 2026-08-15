@@ -2,7 +2,7 @@
 date: '2024-08-08'
 draft: false
 title: 'Lacava Colombia El Rubi'
-tags: ["Poland", "Lacava", "Colombia", "Yeast-Inoculated", "2024"]
+tags: ["Poland", "Lacava", "Colombia", "Yeast-Inoculated", "2024", "Pink Bourbon"]
 cover:
     image: /mini/2024/18a.webp
 ---

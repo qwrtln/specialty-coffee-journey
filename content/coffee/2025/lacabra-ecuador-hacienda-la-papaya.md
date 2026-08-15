@@ -2,7 +2,7 @@
 date: '2025-05-16'
 draft: false
 title: 'La Cabra Ecuador Hacienda La Papaya'
-tags: ["Denmark", "La Cabra", "Ecuador", "Washed", "2025"]
+tags: ["Denmark", "La Cabra", "Ecuador", "Washed", "2025", "Typica"]
 cover:
     image: /mini/2025/14a.webp
 ---

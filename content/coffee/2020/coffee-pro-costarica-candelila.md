@@ -2,7 +2,7 @@
 date: '2020-10-13'
 draft: false
 title: 'Coffee Pro Costa Rica Candelila'
-tags: ["Poland", "Coffee Pro", "Costa Rica", "Washed", "2020"]
+tags: ["Poland", "Coffee Pro", "Costa Rica", "Washed", "2020", "Geisha", "Catuai", "SL28"]
 cover:
     image: /mini/2020/08a.webp
 ---

@@ -2,7 +2,7 @@
 date: '2024-08-12'
 draft: false
 title: 'Lacava Guatemala La Soledad'
-tags: ["Poland", "Lacava", "Guatemala", "Washed", "2024"]
+tags: ["Poland", "Lacava", "Guatemala", "Washed", "2024", "H1"]
 cover:
     image: /mini/2024/19a.webp
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2026-03-17'
 title: 'Right Side Peru Héctor Saavedra'
-tags: ["Spain", "Right Side", "Peru", "Washed", "2026"]
+tags: ["Spain", "Right Side", "Peru", "Washed", "2026", "Bourbon"]
 cover:
     image: /mini/2026/05a.webp
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2026-04-28'
 title: 'Tallat Rwanda Rugamba 205'
-tags: ["Spain", "Tallat", "Rwanda", "Honey", "2026"]
+tags: ["Spain", "Tallat", "Rwanda", "Honey", "2026", "Red Bourbon"]
 cover:
     image: /mini/2026/06a.webp
 ---

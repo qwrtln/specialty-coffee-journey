@@ -2,7 +2,7 @@
 date: '2025-04-01'
 draft: false
 title: 'Love Coffee Ethiopia Megadu'
-tags: ["Sweden", "Love Coffee", "Ethiopia", "Natural", "2025"]
+tags: ["Sweden", "Love Coffee", "Ethiopia", "Natural", "2025", "Heirloom"]
 cover:
     image: /mini/2025/11a.webp
 ---

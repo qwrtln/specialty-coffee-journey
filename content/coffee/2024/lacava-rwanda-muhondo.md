@@ -2,7 +2,7 @@
 date: '2024-08-08'
 draft: false
 title: 'Lacava Rwanda Muhondo'
-tags: ["Poland", "Lacava", "Rwanda", "Anaerobic", "2024"]
+tags: ["Poland", "Lacava", "Rwanda", "Anaerobic", "2024", "Bourbon"]
 cover:
     image: /mini/2024/17a.webp
 ---

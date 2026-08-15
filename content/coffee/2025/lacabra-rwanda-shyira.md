@@ -2,7 +2,7 @@
 date: '2025-05-12'
 draft: false
 title: 'La Cabra Rwanda Shyira'
-tags: ["Denmark", "La Cabra", "Rwanda", "Washed", "2025"]
+tags: ["Denmark", "La Cabra", "Rwanda", "Washed", "2025", "Bourbon"]
 cover:
     image: /mini/2025/12a.webp
 ---

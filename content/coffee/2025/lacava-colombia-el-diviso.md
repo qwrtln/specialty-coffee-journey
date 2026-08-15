@@ -2,7 +2,7 @@
 date: '2025-02-21'
 draft: false
 title: 'Lacava Colombia El Diviso'
-tags: ["Poland", "Lacava", "Colombia", "Washed", "2025"]
+tags: ["Poland", "Lacava", "Colombia", "Washed", "2025", "Caturra"]
 cover:
     image: /mini/2025/09a.webp
 ---

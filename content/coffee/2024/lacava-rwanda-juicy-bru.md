@@ -2,7 +2,7 @@
 date: '2024-02-25'
 draft: false
 title: 'Lacava Rwanda Juicy Bru'
-tags: ["Poland", "Lacava", "Rwanda", "Natural", "2024"]
+tags: ["Poland", "Lacava", "Rwanda", "Natural", "2024", "Red Bourbon"]
 cover:
     image: /mini/2024/09a.webp
 ---

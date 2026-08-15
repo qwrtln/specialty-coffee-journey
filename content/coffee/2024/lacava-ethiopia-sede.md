@@ -2,7 +2,7 @@
 date: '2024-07-05'
 draft: false
 title: 'Lacava Ethiopia Sede'
-tags: ["Poland", "Lacava", "Ethiopia", "Washed", "2024"]
+tags: ["Poland", "Lacava", "Ethiopia", "Washed", "2024", "Heirloom"]
 cover:
     image: /mini/2024/16a.webp
 ---

@@ -2,7 +2,7 @@
 date: '2025-12-08'
 draft: false
 title: 'DAK Colombia Hulia'
-tags: ["Netherlands", "DAK", "Colombia", "Washed", "2025"]
+tags: ["Netherlands", "DAK", "Colombia", "Washed", "2025", "Java"]
 cover:
     image: /mini/2025/23a.webp
 ---

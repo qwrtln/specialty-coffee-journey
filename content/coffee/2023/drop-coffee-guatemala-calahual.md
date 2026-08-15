@@ -2,7 +2,7 @@
 date: '2023-04-30'
 draft: false
 title: 'Drop Coffee Guatemala Calahual'
-tags: ["Sweden", "Drop Coffee", "Guatemala", "Anaerobic", "2023"]
+tags: ["Sweden", "Drop Coffee", "Guatemala", "Anaerobic", "2023", "Caturra"]
 cover:
     image: /mini/2023/09a.webp
 ---

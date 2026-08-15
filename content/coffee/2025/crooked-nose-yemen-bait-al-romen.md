@@ -2,7 +2,7 @@
 date: '2025-07-13'
 draft: false
 title: 'Crooked Nose Yemen Bait Al Romen'
-tags: ["Lithuania", "Crooked Nose", "Yemen", "Natural", "2025"]
+tags: ["Lithuania", "Crooked Nose", "Yemen", "Natural", "2025", "Udaini"]
 cover:
     image: /mini/2025/15a.webp
 ---

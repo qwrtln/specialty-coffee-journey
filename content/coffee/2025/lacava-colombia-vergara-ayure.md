@@ -2,7 +2,7 @@
 date: '2025-09-16'
 draft: false
 title: 'Lacava Colombia Vergara Ayure'
-tags: ["Poland", "Lacava", "Colombia", "Thermal Shock", "2025"]
+tags: ["Poland", "Lacava", "Colombia", "Thermal Shock", "2025", "Chiroso"]
 cover:
     image: /mini/2025/18a.webp
 ---

@@ -2,7 +2,7 @@
 date: '2024-03-10'
 draft: false
 title: 'Kawepale Nepal Indrawati'
-tags: ["Poland", "Kawepale", "Nepal", "Natural", "2024"]
+tags: ["Poland", "Kawepale", "Nepal", "Natural", "2024", "Bourbon", "Caturra", "Typica"]
 cover:
     image: /mini/2024/11a.webp
 ---

@@ -2,7 +2,7 @@
 date: '2023-02-24'
 draft: false
 title: 'Coffee Pro Guatemala La Esperanza'
-tags: ["Poland", "Coffee Pro", "Guatemala", "Honey", "2023"]
+tags: ["Poland", "Coffee Pro", "Guatemala", "Honey", "2023", "Typica"]
 cover:
     image: /mini/2023/08a.webp
 ---

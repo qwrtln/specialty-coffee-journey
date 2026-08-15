@@ -2,7 +2,7 @@
 date: '2023-06-24'
 draft: false
 title: 'Lacava Colombia La Isleta'
-tags: ["Poland", "Lacava", "Colombia", "Natural", "2023"]
+tags: ["Poland", "Lacava", "Colombia", "Natural", "2023", "Caturra", "Castillo"]
 cover:
     image: /mini/2023/16a.webp
 ---

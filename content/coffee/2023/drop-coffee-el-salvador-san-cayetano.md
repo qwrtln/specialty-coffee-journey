@@ -2,7 +2,7 @@
 date: '2023-09-07'
 draft: false
 title: 'Drop Coffee El Salvador San Cayetano'
-tags: ["Sweden", "Drop Coffee", "El Salvador", "Carbonic Maceration", "2023"]
+tags: ["Sweden", "Drop Coffee", "El Salvador", "Carbonic Maceration", "2023", "Red Caturra"]
 cover:
     image: /mini/2023/22a.webp
 ---

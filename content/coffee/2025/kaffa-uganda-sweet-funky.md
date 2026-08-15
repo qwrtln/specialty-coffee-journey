@@ -2,7 +2,7 @@
 date: '2024-10-09'
 draft: false
 title: 'Kaffa Uganda Sweet & Funky'
-tags: ["Finland", "Kaffa", "Uganda", "Natural", "2024"]
+tags: ["Finland", "Kaffa", "Uganda", "Natural", "2024", "SL14", "SL28", "Nyasaland"]
 cover:
     image: /mini/2025/01a.webp
 ---

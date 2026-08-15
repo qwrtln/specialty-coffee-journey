@@ -2,7 +2,7 @@
 date: '2025-10-17'
 draft: false
 title: 'Mamam Ethiopia Gara Sole'
-tags: ["Poland", "Mamam", "Ethiopia", "Natural", "2025"]
+tags: ["Poland", "Mamam", "Ethiopia", "Natural", "2025", "Heirloom"]
 cover:
     image: /mini/2025/19a.webp
 ---

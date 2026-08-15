@@ -2,7 +2,7 @@
 date: '2025-01-21'
 draft: false
 title: 'Mamam Ethiopia Koke'
-tags: ["Poland", "Mamam", "Ethiopia", "Honey", "2025"]
+tags: ["Poland", "Mamam", "Ethiopia", "Honey", "2025", "Kurume", "Dega", "Wolisho"]
 cover:
     image: /mini/2025/07a.webp
 ---

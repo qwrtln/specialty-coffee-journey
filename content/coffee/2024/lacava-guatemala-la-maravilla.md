@@ -2,7 +2,7 @@
 date: '2024-06-20'
 draft: false
 title: 'Lacava Guatemala La Maravilla'
-tags: ["Poland", "Lacava", "Guatemala", "Washed", "2024"]
+tags: ["Poland", "Lacava", "Guatemala", "Washed", "2024", "Caturra"]
 cover:
     image: /mini/2024/15a.webp
 ---

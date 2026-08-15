@@ -2,7 +2,7 @@
 date: '2024-05-08'
 draft: false
 title: 'Drop Coffee Ethiopia Hunkute'
-tags: ["Sweden", "Drop Coffee", "Ethiopia", "Washed", "2024"]
+tags: ["Sweden", "Drop Coffee", "Ethiopia", "Washed", "2024", "74410", "74112"]
 cover:
     image: /mini/2024/12a.webp
 ---

@@ -2,7 +2,7 @@
 date: '2024-10-21'
 draft: false
 title: 'Gringo Colombia Honey Lulo'
-tags: ["Sweden", "Gringo", "Colombia", "Experimental", "2024"]
+tags: ["Sweden", "Gringo", "Colombia", "Experimental", "2024", "Castillo", "Caturra"]
 cover:
     image: /mini/2025/04a.webp
 ---

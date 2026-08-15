@@ -2,7 +2,7 @@
 date: '2025-02-27'
 draft: false
 title: 'Lacava Ethiopia Kechara'
-tags: ["Poland", "Lacava", "Ethiopia", "Natural", "2025"]
+tags: ["Poland", "Lacava", "Ethiopia", "Natural", "2025", "74158"]
 cover:
     image: /mini/2025/10a.webp
 ---

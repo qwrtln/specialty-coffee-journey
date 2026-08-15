@@ -2,7 +2,7 @@
 date: '2022-02-15'
 draft: false
 title: 'Drop Coffee El Salvador Nueva Granda Estate'
-tags: ["Sweden", "Drop Coffee", "El Salvador", "Washed", "2022"]
+tags: ["Sweden", "Drop Coffee", "El Salvador", "Washed", "2022", "Caturra"]
 cover:
     image: /mini/2022/10a.webp
 ---

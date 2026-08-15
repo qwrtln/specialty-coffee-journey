@@ -2,7 +2,7 @@
 date: '2021-07-12'
 draft: false
 title: "Rostains Kenya Red Fizz"
-tags: ["Poland", "Rostains", "Kenya", "Washed", "2021"]
+tags: ["Poland", "Rostains", "Kenya", "Washed", "2021", "SL28", "SL34"]
 cover:
     image: /mini/2021/08a.webp
 ---

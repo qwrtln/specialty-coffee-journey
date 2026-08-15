@@ -2,7 +2,7 @@
 date: '2023-05-30'
 draft: false
 title: 'Mazelab Colombia Cascara El Roble Java'
-tags: ["Czechia", "Mazelab", "Colombia", "Husk", "2023"]
+tags: ["Czechia", "Mazelab", "Colombia", "Husk", "2023", "Java"]
 cover:
     image: /mini/2023/15a.webp
 ---
