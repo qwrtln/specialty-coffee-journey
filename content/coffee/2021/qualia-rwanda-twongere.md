@@ -2,7 +2,7 @@
 date: '2021-06-30'
 draft: false
 title: "Qualia Rwanda Twongere"
-tags: ["Poland", "Qualia", "Rwanda", "2021"]
+tags: ["Poland", "Qualia", "Rwanda", "2021", "Robusta"]
 cover:
     image: /mini/2021/12a.webp
 ---
