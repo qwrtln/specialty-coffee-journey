@@ -3,7 +3,7 @@ date: '2020-09-05'
 draft: false
 title: 'Why Knot - Minsk, Belarus'
 cover:
-    image: /mini/cafes/why-knot.jpg
+    image: /mini/cafes/why-knot.webp
 ---
 
 I was promised to be led to the best coffee spot in the city, so my expectations were high.

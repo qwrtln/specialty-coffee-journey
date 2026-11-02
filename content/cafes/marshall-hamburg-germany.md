@@ -3,7 +3,7 @@ date: '2023-10-13'
 draft: false
 title: 'Marshall Street Coffee - Hamburg, Germany'
 cover:
-    image: /mini/cafes/marshall-1.jpg
+    image: /mini/cafes/marshall-1.webp
 ---
 
 This is the first coffee shop I've encountered that operates strictly by reservation only.

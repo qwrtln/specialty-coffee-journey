@@ -3,7 +3,7 @@ date: '2021-12-29'
 draft: false
 title: 'Risø - Tromsø, Norway'
 cover:
-    image: /mini/cafes/riso.jpg
+    image: /mini/cafes/riso.webp
 ---
 
 Beyond the Arctic Circle in winter twilight, especially in a small town like Tromsø, you'd expect to be far from specialty coffee culture.

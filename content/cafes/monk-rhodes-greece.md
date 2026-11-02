@@ -3,7 +3,7 @@ date: '2023-10-03'
 draft: false
 title: 'Monk - Rhodes, Greece'
 cover:
-    image: /mini/cafes/monk-1.jpg
+    image: /mini/cafes/monk-1.webp
 ---
 
 You might expect that visiting a tourist destination like Rhodes would mean compromising on specialty coffee.
