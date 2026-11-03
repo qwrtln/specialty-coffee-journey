@@ -11,6 +11,7 @@ So I was surprised to see an inconspicuous entrance off the beaten track in Sing
 No name anywhere, just an all-glass front, albeit with people queuing to get a seat.
 
 Once inside, you're struck by the impression of how much thought and care went into the overall design of this place.
+For starters, there's actual art on the walls.
 
 |![Apartment Coffee](/cafes/apartment-coffee-3.webp)|
 |:---:|
@@ -21,6 +22,8 @@ You can immediately notice the shift is staffed by three people with a clear sep
  - One person greets and seats guests, and offers them water (or a refill).
  - One person responsible for espresso-based drinks.
  - One person responsible for pour-overs.
+
+To make sure everyone keeps their skills sharp, they rotate those roles regularly.
 
 The menu is very short and simple: 3 pour-over options, espresso, flat white, 3 teas, 2 chocolate drinks.
 Yes, you got that right.
@@ -39,7 +42,7 @@ Their workspace includes six of everything (glassware, cups, scales) and two ket
 We couldn't help but order a little bit of everything: coffee, tea, and chocolate.
 Everything of top-notch quality.
 The Kenyan coffee was fruity and refreshing, perfect for equatorial weather.
-The oolong tea brought back memories of I first tried one.
+The oolong tea brought back memories of when I first tried one.
 The chocolate was surprisingly sweet.
 
 |![Apartment Coffee](/cafes/apartment-coffee-5.webp)|
@@ -58,11 +61,18 @@ For Apartment, it's a skill just as important as brewing itself.
 There's a fine line between being polite and friendly, and fake smiling to a level where a customer thinks: "That's enough, just let me be".
 Here, every member of the staff knows how to make you feel welcome without overdoing it.
 
+During short breaks when there are no incoming orders, instead of sitting idly, they clean up their workspace and set up all the tableware for future orders.
+How they manage to do this in an era when everyone's addicted to staring at their smartphones is beyond me.
+
 |![Apartment Coffee](/cafes/apartment-coffee-8.webp)|
 |:---:|
 |Thanks to the downpour outside, I could take some pictures with no intruders.|
 
-And not every cafe puts actual art on the walls.
+Another seemingly small but important detail: they use quiet grinders.
+In many other cafes, whenever they're grinding coffee, the noise is so loud you can't hear anybody speak.
+Here, you can hear each other clearly even if you sit right by the grinder.
+Also, they use A/C moderately, unlike many places in Singapore, where it's cranked up to the point of discomfort.
+
 So when you combine highly skilled baristas, methodical brewing techniques, a stylish and clean interior, attentive staff without overdoing it, art and thoughtful design, you get Apartment.
 
 |![Apartment Coffee](/cafes/apartment-coffee-4.webp)|
