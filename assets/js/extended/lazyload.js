@@ -8,6 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
   let loading = false;
   let hasMore = true;
   let retryCount = 0;
+  let nextFadeStart = 0;
   const MAX_RETRIES = 3;
 
   const loadingIndicator = document.createElement('div');
@@ -57,11 +58,15 @@ document.addEventListener('DOMContentLoaded', () => {
         return;
       }
 
-      newPosts.forEach((post, index) => {
+      const now = performance.now();
+      let start = Math.max(now, nextFadeStart);
+      newPosts.forEach((post) => {
         const clone = document.importNode(post, true);
-        clone.style.animationDelay = `${index * 0.1}s`;
+        clone.style.animationDelay = `${Math.round(start - now)}ms`;
+        start += 100;
         postContainer.appendChild(clone);
       });
+      nextFadeStart = start;
 
       currentPage = nextPage;
       retryCount = 0;

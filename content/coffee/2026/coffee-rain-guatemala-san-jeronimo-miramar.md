@@ -8,7 +8,7 @@ cover:
 
 A new roaster with a fun twist: it is run by a Guatemalan and roasts only Guatemalan coffee.
 We discovered it in one of our local cafes.
-The quality to price ratio is decent, but only if you buy the discounted four-packs.
+The quality-to-price ratio is decent, but only if you buy the discounted four-packs.
 As for the taste, it made a comfortable everyday coffee.
 Also, *Venecia* is a varietal we haven't encountered before.
 

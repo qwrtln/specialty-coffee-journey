@@ -7,7 +7,7 @@ params:
   hideAuthor: true
   homeInfoParams:
    Title: A Coffee Journey Chronicle
-   Content: Cataloging coffee beans and their roasters, along with truly excceptional café discoveries, all documented since 2020.
+   Content: Cataloging coffee beans and their roasters, along with truly exceptional café discoveries, all documented since 2020.
 
   mainSections: ["coffee", "cafes"]
 

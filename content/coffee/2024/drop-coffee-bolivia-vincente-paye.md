@@ -1,10 +1,10 @@
 ---
 date: '2024-01-04'
 draft: false
-title: 'Drop Coffee Bolivia Vincente Paye'
+title: 'Drop Coffee Bolivia Vicente Paye'
 tags: ["Sweden", "Drop Coffee", "Bolivia", "Washed", "2024", "Caturra"]
 cover:
     image: /mini/2024/05a.webp
 ---
-![Drop Coffee Bolivia Vincente Paye](/2024/05a.jpg)
-![Drop Coffee Bolivia Vincente Paye](/2024/05b.jpg)
+![Drop Coffee Bolivia Vicente Paye](/2024/05a.jpg)
+![Drop Coffee Bolivia Vicente Paye](/2024/05b.jpg)
