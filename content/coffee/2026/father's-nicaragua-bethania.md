@@ -16,6 +16,8 @@ White tea notes (although with a relatively heavy body) became very prominent in
 I was actually sad that there were so few brews left before I ran out.
 
 This phenomenon of the taste improving dramatically as you enter the 10-12 week window needs some research.
+Arguably, it's way past the standard time it takes for most of the CO₂ to escape.
+However, according to [Scott Rao](https://www.scottrao.com/blog/restingbeans), there's no rule of thumb.
 
 ![Father's Nicaragua Bethania](/2026/13a.webp)
 ![Father's Nicaragua Bethania](/2026/13b.webp)
